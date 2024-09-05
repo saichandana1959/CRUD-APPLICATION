@@ -1,0 +1,17 @@
+button{
+    width: 80px;
+  }
+  
+  .btn-danger {
+      color: #fff;
+      background-color: #e8130c;
+      border-color: #d43f3a;
+      margin-left: 10px;
+    }
+    h1{
+      text-align: center;
+    }
+    th{
+      background-color: rgb(150, 236, 21);
+      color: #d43f3a;
+    }
